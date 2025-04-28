@@ -1,0 +1,9 @@
+* Compiling
+
+$ javac <all source files>
+
+
+* Executing
+
+$ java <entry package>.<entry class>
+
